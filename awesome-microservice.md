@@ -1,7 +1,6 @@
 # awesome-microservice
 A curated list of Microservice resources
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Philosophy of  Microservice
 
 ### Origin of Microservice
