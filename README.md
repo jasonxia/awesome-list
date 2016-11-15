@@ -2,10 +2,23 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
+### Languages
 * [Java](./awesome-java.md)
-* [Microservice](./awesome-microservice.md)
 * [Scala](./awesome-scala.md)
 * [JavaScript](./awesome-javascript.md)
+
+### Tools
+* [Git & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
+
+### Architecture
+* [Microservice](./awesome-microservice.md)
+
+### Data Science
+* [Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+
+### Learning
+* [Tech Talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [Conferences](https://github.com/RichardLitt/awesome-conferences)
 
 ## Contributing
 
